@@ -1,4 +1,4 @@
-🌪️ Natural Language Processing with Disaster Tweets 📊
+# 🌪️ Natural Language Processing with Disaster Tweets 📊
 This repository showcases a project focused on Natural Language Processing (NLP) techniques to classify tweets related to disaster events. The goal is to accurately identify whether a tweet is about a real disaster or not, using machine learning models.
 
 Overview
